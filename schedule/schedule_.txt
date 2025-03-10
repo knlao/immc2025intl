@@ -1,0 +1,126 @@
+Round 1:
+  Canada (Home) vs New Zealand (Away)
+  Chile (Home) vs Mexico (Away)
+  Australia (Home) vs China (Away)
+  Central Africa Republic (Home) vs England (Away)
+  Morocco (Home) vs Egypt (Away)
+
+Round 2:
+  Canada (Home) vs Mexico (Away)
+  New Zealand (Home) vs China (Away)
+  Chile (Home) vs England (Away)
+  Australia (Home) vs Egypt (Away)
+  Central Africa Republic (Home) vs Morocco (Away)
+
+Round 3:
+  Canada (Home) vs China (Away)
+  Mexico (Home) vs England (Away)
+  New Zealand (Home) vs Egypt (Away)
+  Chile (Home) vs Morocco (Away)
+  Australia (Home) vs Central Africa Republic (Away)
+
+Round 4:
+  Canada (Home) vs England (Away)
+  China (Home) vs Egypt (Away)
+  Mexico (Home) vs Morocco (Away)
+  New Zealand (Home) vs Central Africa Republic (Away)
+  Chile (Home) vs Australia (Away)
+
+Round 5:
+  Canada (Home) vs Egypt (Away)
+  England (Home) vs Morocco (Away)
+  China (Home) vs Central Africa Republic (Away)
+  Mexico (Home) vs Australia (Away)
+  New Zealand (Home) vs Chile (Away)
+
+Round 6:
+  Canada (Home) vs Morocco (Away)
+  Egypt (Home) vs Central Africa Republic (Away)
+  England (Home) vs Australia (Away)
+  China (Home) vs Chile (Away)
+  Mexico (Home) vs New Zealand (Away)
+
+Round 7:
+  Canada (Home) vs Central Africa Republic (Away)
+  Morocco (Home) vs Australia (Away)
+  Egypt (Home) vs Chile (Away)
+  England (Home) vs New Zealand (Away)
+  China (Home) vs Mexico (Away)
+
+Round 8:
+  Canada (Home) vs Australia (Away)
+  Central Africa Republic (Home) vs Chile (Away)
+  Morocco (Home) vs New Zealand (Away)
+  Egypt (Home) vs Mexico (Away)
+  England (Home) vs China (Away)
+
+Round 9:
+  Canada (Home) vs Chile (Away)
+  Australia (Home) vs New Zealand (Away)
+  Central Africa Republic (Home) vs Mexico (Away)
+  Morocco (Home) vs China (Away)
+  Egypt (Home) vs England (Away)
+
+Round 10:
+  New Zealand (Home) vs Canada (Away)
+  Mexico (Home) vs Chile (Away)
+  China (Home) vs Australia (Away)
+  England (Home) vs Central Africa Republic (Away)
+  Egypt (Home) vs Morocco (Away)
+
+Round 11:
+  Mexico (Home) vs Canada (Away)
+  China (Home) vs New Zealand (Away)
+  England (Home) vs Chile (Away)
+  Egypt (Home) vs Australia (Away)
+  Morocco (Home) vs Central Africa Republic (Away)
+
+Round 12:
+  China (Home) vs Canada (Away)
+  England (Home) vs Mexico (Away)
+  Egypt (Home) vs New Zealand (Away)
+  Morocco (Home) vs Chile (Away)
+  Central Africa Republic (Home) vs Australia (Away)
+
+Round 13:
+  England (Home) vs Canada (Away)
+  Egypt (Home) vs China (Away)
+  Morocco (Home) vs Mexico (Away)
+  Central Africa Republic (Home) vs New Zealand (Away)
+  Australia (Home) vs Chile (Away)
+
+Round 14:
+  Egypt (Home) vs Canada (Away)
+  Morocco (Home) vs England (Away)
+  Central Africa Republic (Home) vs China (Away)
+  Australia (Home) vs Mexico (Away)
+  Chile (Home) vs New Zealand (Away)
+
+Round 15:
+  Morocco (Home) vs Canada (Away)
+  Central Africa Republic (Home) vs Egypt (Away)
+  Australia (Home) vs England (Away)
+  Chile (Home) vs China (Away)
+  New Zealand (Home) vs Mexico (Away)
+
+Round 16:
+  Central Africa Republic (Home) vs Canada (Away)
+  Australia (Home) vs Morocco (Away)
+  Chile (Home) vs Egypt (Away)
+  New Zealand (Home) vs England (Away)
+  Mexico (Home) vs China (Away)
+
+Round 17:
+  Australia (Home) vs Canada (Away)
+  Chile (Home) vs Central Africa Republic (Away)
+  New Zealand (Home) vs Morocco (Away)
+  Mexico (Home) vs Egypt (Away)
+  China (Home) vs England (Away)
+
+Round 18:
+  Chile (Home) vs Canada (Away)
+  New Zealand (Home) vs Australia (Away)
+  Mexico (Home) vs Central Africa Republic (Away)
+  China (Home) vs Morocco (Away)
+  England (Home) vs Egypt (Away)
+

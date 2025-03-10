@@ -1,0 +1,225 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "monotypic",
+            "country": "Saint Vincent and the Grenadines",
+            "continent": "North America",
+            "loc": [
+                65.55002,
+                -174.2118
+            ],
+            "rank": 1
+        },
+        {
+            "id": 2,
+            "name": "dephlegmator",
+            "country": "Somalia",
+            "continent": "Africa",
+            "loc": [
+                44.94688,
+                65.04284
+            ],
+            "rank": 2
+        },
+        {
+            "id": 3,
+            "name": "forthwith",
+            "country": "El Salvador",
+            "continent": "North America",
+            "loc": [
+                26.54836,
+                93.51827
+            ],
+            "rank": 3
+        },
+        {
+            "id": 4,
+            "name": "tonga",
+            "country": "Dominican Republic",
+            "continent": "North America",
+            "loc": [
+                32.07845,
+                127.1251
+            ],
+            "rank": 4
+        },
+        {
+            "id": 5,
+            "name": "faceteness",
+            "country": "Benin",
+            "continent": "Africa",
+            "loc": [
+                -7.10941,
+                -78.16954
+            ],
+            "rank": 5
+        },
+        {
+            "id": 6,
+            "name": "Slavistic",
+            "country": "Cuba",
+            "continent": "North America",
+            "loc": [
+                -68.91844,
+                -156.20276
+            ],
+            "rank": 6
+        },
+        {
+            "id": 7,
+            "name": "duteous",
+            "country": "Latvia",
+            "continent": "Europe",
+            "loc": [
+                36.7428,
+                -79.13606
+            ],
+            "rank": 7
+        },
+        {
+            "id": 8,
+            "name": "elaidinic",
+            "country": "El Salvador",
+            "continent": "North America",
+            "loc": [
+                26.92765,
+                12.60198
+            ],
+            "rank": 8
+        },
+        {
+            "id": 9,
+            "name": "disturn",
+            "country": "Antarctica",
+            "continent": "Antarctica",
+            "loc": [
+                8.17479,
+                74.75923
+            ],
+            "rank": 9
+        },
+        {
+            "id": 10,
+            "name": "fountainlet",
+            "country": "Svalbard and Jan Mayen",
+            "continent": "Europe",
+            "loc": [
+                85.94502,
+                -13.1192
+            ],
+            "rank": 10
+        },
+        {
+            "id": 11,
+            "name": "Sisseton",
+            "country": "Uganda",
+            "continent": "Africa",
+            "loc": [
+                57.3153,
+                -87.11047
+            ],
+            "rank": 11
+        },
+        {
+            "id": 12,
+            "name": "hypersophisticated",
+            "country": "South Korea",
+            "continent": "Asia",
+            "loc": [
+                -25.87814,
+                -92.0835
+            ],
+            "rank": 12
+        },
+        {
+            "id": 13,
+            "name": "torse",
+            "country": "Armenia",
+            "continent": "Asia",
+            "loc": [
+                22.65583,
+                1.71878
+            ],
+            "rank": 13
+        },
+        {
+            "id": 14,
+            "name": "meliceris",
+            "country": "Cuba",
+            "continent": "North America",
+            "loc": [
+                -17.68765,
+                -169.79731
+            ],
+            "rank": 14
+        },
+        {
+            "id": 15,
+            "name": "echopractic",
+            "country": "Italy",
+            "continent": "Europe",
+            "loc": [
+                -25.93704,
+                -124.53696
+            ],
+            "rank": 15
+        },
+        {
+            "id": 16,
+            "name": "inaxon",
+            "country": "Italy",
+            "continent": "Europe",
+            "loc": [
+                18.35502,
+                -37.91956
+            ],
+            "rank": 16
+        },
+        {
+            "id": 17,
+            "name": "elaidinic",
+            "country": "New Zealand",
+            "continent": "Oceania",
+            "loc": [
+                -9.53979,
+                -38.02225
+            ],
+            "rank": 17
+        },
+        {
+            "id": 18,
+            "name": "sparkless",
+            "country": "Iran",
+            "continent": "Asia",
+            "loc": [
+                -84.69831,
+                -143.07127
+            ],
+            "rank": 18
+        },
+        {
+            "id": 19,
+            "name": "Orobanche",
+            "country": "Bosnia and Herzegovina",
+            "continent": "Europe",
+            "loc": [
+                -36.34312,
+                -135.32449
+            ],
+            "rank": 19
+        },
+        {
+            "id": 20,
+            "name": "Ansel",
+            "country": "Mali",
+            "continent": "Africa",
+            "loc": [
+                -27.90334,
+                -95.28473
+            ],
+            "rank": 20
+        }
+    ],
+    "_comment": "for loc, the format is (lat, lon)"
+}
