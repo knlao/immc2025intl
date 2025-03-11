@@ -122,7 +122,7 @@ def simulate(mode, teams, iters):
 
 
 s = 0
-iter_out = 1000
+iter_out = 10000
 iter_in = 1000
 mode = "double comp"
 

@@ -5,7 +5,8 @@ import numpy as np
 
 
 # import data
-with open("teams.json", "r") as f:
+# with open("teams_20.json", "r") as f:
+with open("teams_24.json", "r") as f:
     d = json.load(f)
 
 teams = d["teams"]
@@ -140,6 +141,11 @@ def total_distance(schedule, teams_group):
     return sum(v for k, v in distance_each.items()), distance_each
 
 
+# "ts" value
+def ts(t, s):
+    return (t**2 + 200*s**2)**0.5
+
+
 ##### initialise #####
 
 # initialise distance matrix
@@ -170,7 +176,8 @@ def brute_force_distance():
     schedule = make_schedule([teams_group[idx] for idx in team_idx])
     distance_total, distance_each = total_distance(schedule, teams_group)
 
-    distance_total_min = 100000000000000
+    iter_min = 100000000000000
+    ts_min = 100000000000000
 
     io_buffer = []
     iter2 = 0
@@ -180,16 +187,22 @@ def brute_force_distance():
     for iter in tqdm(range(factorial(len(teams_group)))):
         schedule = make_schedule([teams_group[idx] for idx in team_idx])
         distance_total, distance_each = total_distance(schedule, teams_group)
-        io_buffer.append(
-            f"{iter},{distance_total},{np.std([v for k, v in distance_each.items()])},{','.join([str(v) for k, v in distance_each.items()])}\n")
-        distance_total_min = min(distance_total, distance_total_min)
+        tt = distance_total
+        ss = np.std([v for k, v in distance_each.items()])
+        tss = ts(tt, ss)
+        io_buffer.append(f"{iter},{tt},{ss},{tss},{','.join([str(v) for k, v in distance_each.items()])}\n")
+        
+        if (tss < ts_min):
+            tss = ts_min
+            iter_min = iter
+        # distance_total_min = min(distance_total, distance_total_min)
         team_idx = next_permutation(team_idx)
 
         iter2 += 1
         if iter2 >= file_buffer_len:
             with open(f"result_data/results_odd_{iter3}.csv", "w+") as f:
                 f.write(
-                    f"iter,total,variance,{','.join([str(k) for k, v in distance_each.items()])}\n")
+                    f"iter,total,variance,tv,{','.join([str(k) for k, v in distance_each.items()])}\n")
                 f.writelines(io_buffer)
                 iter2 = 0
                 iter3 += 1
@@ -197,10 +210,11 @@ def brute_force_distance():
 
     with open(f"result_data/results_odd_{iter3}.csv", "w+") as f:
         f.write(
-            f"iter,total,variance,{','.join([str(k) for k, v in distance_each.items()])}\n")
+            f"iter,total,variance,tv,{','.join([str(k) for k, v in distance_each.items()])}\n")
         f.writelines(io_buffer)
 
-    print(f"minimum total travel distance: {distance_total_min}km")
+    print(f"best iter: {iter_min}")
+    print(f"minimum ts value: {ts_min}")
 
 
 ### get the optimal solution ###
@@ -234,5 +248,5 @@ def optimal_sol():
 
 ##### run #####
 
-# brute_force_distance()
-optimal_sol()
+brute_force_distance()
+# optimal_sol()

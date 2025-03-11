@@ -1,0 +1,268 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "China",
+            "country": "China",
+            "continent": "Asia",
+            "loc": [
+                39.90549405135238, 116.38224927899037
+            ],
+            "world_rank": 15,
+            "rank": 11
+        },
+        {
+            "id": 2,
+            "name": "Malaysia",
+            "country": "Malaysia",
+            "continent": "Asia",
+            "loc": [
+                3.153976679189963, 101.69137346470984
+            ],
+            "world_rank": 16,
+            "rank": 12
+        },
+        {
+            "id": 3,
+            "name": "Singapore",
+            "country": "Singapore",
+            "continent": "Asia",
+            "loc": [
+                1.2823164589058047, 103.85014196816192
+            ],
+            "world_rank": 32,
+            "rank": 16
+        },
+        {
+            "id": 4,
+            "name": "Japan",
+            "country": "Japan",
+            "continent": "Asia",
+            "loc": [
+                35.67879783770164, 139.7669379592734
+            ],
+            "world_rank": 34,
+            "rank": 18
+        },
+        {
+            "id": 5,
+            "name": "Austria",
+            "country": "Austria",
+            "continent": "Europe",
+            "loc": [
+                48.21529407753197, 16.37418797108967
+            ],
+            "world_rank": 3,
+            "rank": 3
+        },
+        {
+            "id": 6,
+            "name": "Italy",
+            "country": "Italy",
+            "continent": "Europe",
+            "loc": [
+                41.897144371764135, 12.482048404141015
+            ],
+            "world_rank": 5,
+            "rank": 5
+        },
+        {
+            "id": 7,
+            "name": "England",
+            "country": "England",
+            "continent": "Europe",
+            "loc": [
+                51.50367721448112, -0.132569918589367
+            ],
+            "world_rank": 6,
+            "rank": 6
+        },
+        {
+            "id": 8,
+            "name": "Sweden",
+            "country": "Sweden",
+            "continent": "Europe",
+            "loc": [
+                59.329905651984255, 18.063359368274433
+            ],
+            "world_rank": 7,
+            "rank": 7
+        },
+        {
+            "id": 9,
+            "name": "Egypt",
+            "country": "Egypt",
+            "continent": "Africa",
+            "loc": [
+                30.044788398448226, 31.229588285236943
+            ],
+            "world_rank": 33,
+            "rank": 17
+        },
+        {
+            "id": 10,
+            "name": "Morocco",
+            "country": "Morocco",
+            "continent": "Africa",
+            "loc": [
+                34.00441677376188, -6.8559109404665
+            ],
+            "world_rank": 36,
+            "rank": 19
+        },
+        {
+            "id": 11,
+            "name": "Cameroon",
+            "country": "Cameroon",
+            "continent": "Africa",
+            "loc": [
+                3.8648790840201337, 11.513752335113875
+            ],
+            "world_rank": 43,
+            "rank": 22
+        },
+        {
+            "id": 12,
+            "name": "CAR",
+            "country": "Central Africa Republic",
+            "continent": "Africa",
+            "loc": [
+                4.366615436713727, 18.580089087798296
+            ],
+            "world_rank": 44,
+            "rank": 23
+        },
+        {
+            "id": 13,
+            "name": "USA",
+            "country": "United States of America",
+            "continent": "North America",
+            "loc": [
+                38.90962207144131, -77.03587436600355
+            ],
+            "world_rank": 1,
+            "rank": 1
+        },
+        {
+            "id": 14,
+            "name": "Canada",
+            "country": "Canada",
+            "continent": "North America",
+            "loc": [
+                45.419758707529226, -75.70039275780644
+            ],
+            "world_rank": 2,
+            "rank": 2
+        },
+        {
+            "id": 15,
+            "name": "Mexico",
+            "country": "Mexico",
+            "continent": "North America",
+            "loc": [
+                19.42669983983358, -99.13338748123205
+            ],
+            "world_rank": 8,
+            "rank": 8
+        },
+        {
+            "id": 16,
+            "name": "Argentina",
+            "country": "Argentina",
+            "continent": "South America",
+            "loc": [
+                -34.609251447286816, -58.38395799829321
+            ],
+            "world_rank": 11,
+            "rank": 10
+        },
+        {
+            "id": 17,
+            "name": "Colombia",
+            "country": "Colombia",
+            "continent": "South America",
+            "loc": [
+                4.709016404307584, -74.07542346107945
+            ],
+            "world_rank": 25,
+            "rank": 14
+        },
+        {
+            "id": 18,
+            "name": "Chile",
+            "country": "Chile",
+            "continent": "South America",
+            "loc": [
+                -33.455255280538175, -70.66108276953307
+            ],
+            "world_rank": 26,
+            "rank": 15
+        },
+        {
+            "id": 19,
+            "name": "Australia",
+            "country": "Australia",
+            "continent": "Oceania",
+            "loc": [
+                -35.281964431338466, 149.12858450518033
+            ],
+            "world_rank": 4,
+            "rank": 4
+        },
+        {
+            "id": 20,
+            "name": "New Zealand",
+            "country": "New Zealand",
+            "continent": "Oceania",
+            "loc": [
+                -41.29305671767391, 174.778564572035
+            ],
+            "world_rank": 21,
+            "rank": 13
+        },
+        {
+            "id": 21,
+            "name": "Pakistan",
+            "country": "Pakistan",
+            "continent": "Asia",
+            "loc": [
+                33.69521979845865, 73.03470101652631
+            ],
+            "world_rank": 47,
+            "rank": 24
+        },
+        {
+            "id": 22,
+            "name": "Czech Republic",
+            "country": "Czech Republic",
+            "continent": "Europe",
+            "loc": [
+                50.07726951049541, 14.433152283768603
+            ],
+            "world_rank": 9,
+            "rank": 9
+        },
+        {
+            "id": 23,
+            "name": "Brazil",
+            "country": "Brazil",
+            "continent": "South America",
+            "loc": [
+                -15.793837910229845, -47.89310128110489
+            ],
+            "world_rank": 39,
+            "rank": 21
+        },
+        {
+            "id": 24,
+            "name": "Sierra Leone",
+            "country": "Sierra Leone",
+            "continent": "Africa",
+            "loc": [
+                8.486772393402036, -13.235124327086536
+            ],
+            "world_rank": 37,
+            "rank": 20
+        }
+    ]
+}
